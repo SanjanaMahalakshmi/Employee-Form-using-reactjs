@@ -1,0 +1,16 @@
+.button{
+    background-color: rgb(46, 114, 192);
+    margin-left: 600px;
+}
+.head{
+    background-color: rgb(63, 63, 109);
+    color: whitesmoke;
+    padding: 5px;
+}
+.check{
+    margin-top: 40px;
+}
+.check1{
+    margin-top: 45px;
+    margin-left: 10px;
+}
